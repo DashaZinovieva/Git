@@ -7,6 +7,9 @@
         mc:Ignorable="d"
         Title="MegaUltraPage" Height="450" Width="800">
     <Grid>
-        
+        <Button Content="Button" HorizontalAlignment="Left" Margin="151,87,0,0" VerticalAlignment="Top" Background="red"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="191,153,0,0" VerticalAlignment="Top" Background="Yellow"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="251,217,0,0" VerticalAlignment="Top"/>
+
     </Grid>
 </Window>
